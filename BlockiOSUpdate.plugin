@@ -4,7 +4,7 @@
 #!author = Linus
 #!homepage = 
 #!icon = https://raw.githubusercontent.com/linuszlx/Loon/main/Logo/Block.webp
-#!date = 2024-02-19 20:05:06
+#!date = 2026-05-26 20:05:06
 #!tag = 辅助工具
 #!system = 
 #!system_version = 
@@ -13,5 +13,5 @@
 [Rule]
 DOMAIN,mesu.apple.com,REJECT
 DOMAIN,gdmf.apple.com,REJECT
-DOMAIN,updates-http.cdn-apple.com,REJECT
-DOMAIN,xp.apple.com,REJECT
+#DOMAIN,updates-http.cdn-apple.com,REJECT
+#DOMAIN,xp.apple.com,REJECT
